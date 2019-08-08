@@ -14,6 +14,12 @@ Install with Bower:
 bower install macy
 ```
 
+Include via [jsDelivr CDN](https://www.jsdelivr.com/package/npm/ppfish):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/ppfish@1/dist/ppfish.min.js"></script>
+```
+
 ## Usage
 ```javascript
 var macyInstance = Macy({
